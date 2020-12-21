@@ -31,7 +31,6 @@ body {
 .ContainerColumn {
 	display: flex;
     flex-direction: column;
-    height: 90%;
     width: 50%;
     align-items: center;
 }
